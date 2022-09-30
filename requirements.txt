@@ -1,0 +1,6 @@
+Flask
+gunicorn
+selenium
+chromedriver-binary
+line-bot-sdk
+streamlit
